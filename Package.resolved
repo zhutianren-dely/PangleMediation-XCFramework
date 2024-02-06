@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "adsglobalpackage",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/bytedance/AdsGlobalPackage",
+      "state" : {
+        "revision" : "2fc6852c3334449ac6db0efa7fc60cc324460887",
+        "version" : "5.4.1-release.1"
+      }
+    }
+  ],
+  "version" : 2
+}
